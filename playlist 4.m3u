@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1, Video 1
+https://cloudfront.jove.com/CDNSource/hls/13700/13700_.m3u8
+
+#EXTINF:-1, Video 2
+https://cloudfront.jove.com/CDNSource/hls/13701/13701_.m3u8
+
+#EXTINF:-1, Video 3
+https://cloudfront.jove.com/CDNSource/hls/13702/13702_.m3u8
+
+#EXT-X-ENDLIST
